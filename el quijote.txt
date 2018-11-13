@@ -34,3 +34,5 @@ Cambio que SI quiero subir
 Trabajo en algo que me han pedido
 
 cambio abajo GitHub
+
+Cambio automatico Eclipse
